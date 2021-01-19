@@ -340,9 +340,9 @@ MODULES
 	FILE C:\gbdk\lib/small/asxxxx/gb/crt0.o
 		NAME Runtime
 	FILE main.o
-		NAME lcc105600
+		NAME lcc143720
 	FILE output.o
-		NAME lcc157640
+		NAME lcc134120
 	FILE gbt_player.o
 	FILE gbt_player_bank1.o
 LIBRARIES
